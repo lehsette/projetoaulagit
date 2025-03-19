@@ -1,4 +1,4 @@
-Faculdade Uniesp
+
 Curso Ciência da Computação
 Disciplinas: Tecnologia para frontend
 Lista de exercício:
